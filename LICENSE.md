@@ -1,4 +1,4 @@
-#  
+#  Enhance Microsoft To Do for macOS with instant Microsoft To Do for macOS Extension | goal tracking + task automation, the #1 extension. Includes goal tracking and task automation
 
 
 
